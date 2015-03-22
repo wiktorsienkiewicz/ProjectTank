@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjectTank</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchTanksBtnText">Search tanks</string>
+    <string name="closeBtnText">Close</string>
+    <string name="title_activity_search_tanks">SearchTanksActivity</string>
+    <string name="title_activity_tank_control">TankControlActivity</string>
+
+</resources>
